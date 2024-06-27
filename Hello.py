@@ -1,6 +1,6 @@
 name = "Peerappong"
 Lname = "Borpet"
-x1 = 89 % 6
+x1 = 89 % 5
 print (x1)
 x1 += 5
 x3 = x2 = x1 
