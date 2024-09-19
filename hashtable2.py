@@ -44,4 +44,4 @@ def search_function(value):
 
 search_function('banana')
 search_function('apple')
-search_function('banan')
+search_function('banana')
